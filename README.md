@@ -7,3 +7,5 @@ for
  html code-idex.html
 css code-styles.css
 javascript-index.js
+
+for online compiler use CODESANDBOX
